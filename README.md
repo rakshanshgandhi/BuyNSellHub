@@ -23,4 +23,4 @@ BuyNSellHub is an online platform designed to facilitate buying and selling acti
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rakshanshgandhi/SDP.git
+   git clone https://github.com/rakshanshgandhi/BuyNSellHub
